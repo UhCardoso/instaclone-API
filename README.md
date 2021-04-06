@@ -13,9 +13,13 @@ Neste projeto eu adicionei uma funcionalidade extra no qual o usuário poderá c
 No frontend utilizando a biblioteca *Axios* é feito uma requisição **POST**, enviando os seguintes campos:
 
 `"author": "Nome Sobrenome"`
+
 `"place": "Local da foto",`
+
 `"description": "Descrição sobre a foto",`
+
 `"hashtags": "#algumahashtag",`
+
 `"image": "nome-imagem.jpg"`
 
 - **Rota para listar fotos:**
